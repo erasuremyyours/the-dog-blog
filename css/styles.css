@@ -1,0 +1,13 @@
+* {
+  text-align: center;
+
+}
+
+li{
+  list-style-type: lower-roman;
+  list-style-position: inside;
+    font-weight: normal;
+}
+h1{
+    color: blue;
+}
