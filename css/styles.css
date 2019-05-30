@@ -3,7 +3,7 @@
 
 }
 
-.dog {
+.Dog {
   width: 300px;
   float: left;
 }
@@ -15,4 +15,22 @@ li{
 }
 h1{
     color: blue;
+}
+body {
+  background-color: orange;
+  font-family: sans-serif;
+  font-size: 15px;
+}
+
+.Dog li {
+  width: 300px;
+  float: left;
+  font-family: sans-serif;
+  font-size: 15px;
+  color: blue;
+}
+
+img {
+  width: 100%;
+  height: auto;
 }
