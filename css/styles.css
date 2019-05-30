@@ -20,7 +20,7 @@ body {
   background-color: orange;
   font-family: sans-serif;
   font-size: 15px;
-}
+} 
 
 .Dog li {
   width: 300px;
@@ -40,4 +40,27 @@ img {
 .Mans {
   font-size: 50px;
   font-family: monospace;
+}
+
+@media screen and (min-width: 890px) {
+    body {
+      background-color: #f4b241;
+      color: #FFF;
+    }
+}
+
+@media screen and (max-width: 700px) {
+  body {
+    background-color: #f442d9;
+    color: #FFF;
+
+  }
+}
+
+@media screen and (max-width: 480px) {
+  body {
+    background-color: #b8f441;
+    color: #FFF;
+
+  }
 }
